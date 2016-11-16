@@ -19,3 +19,21 @@
 .vistas:last-child{
     margin-bottom: 15px;
 }
+
+@media (max-width: 360px) {
+  .navbar-inverse .navbar-brand {
+    width: 80%;
+  }
+  .lema-titulo {
+    font-size: 1.4rem;
+  }
+  .navbar-brand {
+      font-size: 16px;
+  }
+  .carousel-caption > p {
+    display: none;
+  }
+  .carousel-caption p:first-child {
+    display: block;
+  }
+}

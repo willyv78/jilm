@@ -1,0 +1,736 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"tra",
+				"transition-duration"
+			],
+			[
+				"mouse",
+				"mouseleave\tEvent"
+			],
+			[
+				"mouseenter",
+				"mouseenter\tEvent"
+			],
+			[
+				"moused",
+				"mousedown\tEvent"
+			],
+			[
+				"mouseup",
+				"mouseup\tEvent"
+			],
+			[
+				"add",
+				"addClass\t.addClass()"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"deco",
+				"decodeURIComponent(encodedURI)\tWindow"
+			],
+			[
+				"enco",
+				"encodeURIComponent(URI)\tWindow"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"clos",
+				"close()\tWindow"
+			],
+			[
+				"cons",
+				"console.log()"
+			],
+			[
+				"row_",
+				"row_user_cod"
+			],
+			[
+				"res_",
+				"res_ins_user"
+			],
+			[
+				"sql_",
+				"sql_upd_user"
+			],
+			[
+				"sql",
+				"sql_user"
+			],
+			[
+				"UsuI",
+				"UsuID"
+			],
+			[
+				"bs3-in",
+				"bs3-input:hidden\tbs3-input-hidden"
+			],
+			[
+				"win",
+				"window.location\tWindow"
+			],
+			[
+				"mysq",
+				"mysqli_error"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"nam",
+				"name"
+			],
+			[
+				"customer",
+				"customer_groups"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"w",
+				"window.outerWidth\tWindow"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"aler",
+				"alert(message)\tWindow"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"Usu",
+				"UsuNombre"
+			],
+			[
+				"Us",
+				"UsuNombre"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"setT",
+				"setTimeout(func, delay)\tWindow"
+			],
+			[
+				"mysql_fet",
+				"mysql_fetch_array"
+			],
+			[
+				"mysql_n",
+				"mysql_num_rows"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"in",
+				"inline-flex"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"tabl",
+				"table-cell"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"date",
+				"new Date()\tDate"
+			],
+			[
+				"has",
+				"hasClass\t.hasClass()"
+			],
+			[
+				"ha",
+				"hasClass\t.hasClass()"
+			],
+			[
+				"remove",
+				"removeClass\t.removeClass()"
+			],
+			[
+				"att",
+				"attr\t.attr() - single"
+			],
+			[
+				"strot",
+				"strtotime"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"3px",
+				"3px"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"clo",
+				"closest\t.closest()"
+			],
+			[
+				"ready",
+				"ready\tdocument.ready - $(function(){})"
+			],
+			[
+				"read",
+				"readyState\tDocument"
+			],
+			[
+				"do",
+				"document\tDocument"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"getE",
+				"getElementsByClassName(names)\tElement"
+			],
+			[
+				"le",
+				"length\tFunction"
+			],
+			[
+				"ne",
+				"new Array()\tArray"
+			],
+			[
+				"va",
+				"var "
+			],
+			[
+				"angular",
+				"angular.bind"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "center",
+		"selected_items":
+		[
+			[
+				"center",
+				"Snippet: glyphicon-align-center"
+			],
+			[
+				"glyphicon-pl",
+				"Snippet: glyphicon-play"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 788.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/jilm"
+	],
+	"file_history":
+	[
+		"/private/var/folders/r_/hjw9nlc10jl0ljy72hmdxrpm0000gn/T/fz3temp-2/product.tpl",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/controllers/ProductController.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/libros/impdifgan/javascript/main-original.js",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/libros/impdifgan/files/extfile/index.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/libros/anacomreftri/files/extfile/index.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/libros/impdifgan/files/index.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/libros/impuestdife/files/index.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/libros/impdifgan/index.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/modules/pagosonline/respuesta.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/modules/pagosonline/pagosonline.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/modules/pagosonline/payment.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/modules/pagosonline/payment_return.tpl",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/modules/pagosonline/payment_execution.tpl",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/php/conexion/conexion.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/libros/conexion/config.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/libros/conexion/conexion_hache.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/modules/pagosonline/payment.tpl",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/libros/anaentreftri/javascript/main.js",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/libros/conexion/db.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/controllers/VideosImpuestoDiferidoController.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/themes/theme323/videos-impuesto-diferido.tpl",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/controllers/AuthController.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/themes/theme323/contact-form.tpl",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/controllers/ContactController.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/themes/theme323/contact-form2.tpl",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/themes/theme323/css/global.css",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/themes/theme323/css/videos.css",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/themes/theme323/css/bootstrap.min.css",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/themes/theme323/js/videos.js",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/controllers/VideosImpuestoDiferidoCodigoController.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/themes/theme323/videos-impuesto-diferido-codigo.tpl",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/themes/theme323/modules/blockcategories/category-tree-branch.tpl",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/themes/theme323/modules/blockcategories/blockcategories.tpl",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/modules/blockuserinfo/es.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/controllers/MyAccountController.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/ColumnistaInvitado.html",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/classes/Tools.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/js/jquery/treeview/jquery.treeview.js",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/modules/blockcategories/blockcategories.tpl",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/themes/theme323/category-cms-tree-branch.tpl",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/themes/theme323/category-tree-branch.tpl",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/modules/blockcategories/category-tree-branch.tpl",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/controllers/SearchController.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/controllers/CategoryController.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/tools/smarty/compile/0c2d2ef1c9f6d9319b5e0ce81ed296c7206b0327.file.category-tree-branch.tpl.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/modules/block2ndcategories/blocktopmenu.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/modules/block2ndcategories/block2ndcategories.tpl",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/themes/theme323/product.tpl",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/themes/theme323/scenes.tpl",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/themes/theme323/authentication.tpl",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/themes/theme323/category.tpl",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/videos/videos-lecciones-virtuales.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/desktop/validaCodigo.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/libros/conexion/validar_session.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/config/defines.inc.php",
+		"/Users/willsonvelandia/Documents/Trabajo/EditoresHache/QueryFinalSuscripcion.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/config/settings.inc.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/videos/conexion/conexion.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/desktop/bootstrap.min.css",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/desktop/videos.js",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/desktop/videos.css",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/themes/theme323/js/validaCodigo.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/themes/theme323/js/videos-jquery.js",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/themes/theme323/js/order-opc.js",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/themes/theme323/js/product.js",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/videos-impuesto-diferido.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/videos-impuesto-diferido-codigo.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/videos/indice-lecciones-virtuales.html",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/index.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/juegos/index.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/classes/Product.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/indices/ImpuestosDiferidoGanancias/javascript/main.js",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/indices/index.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/libros/index.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/modules/addstuff/addstuff.php",
+		"/Users/willsonvelandia/Downloads/servicios.html",
+		"/Users/willsonvelandia/node_modules/jshint/node_modules/htmlparser2/test/Events/26-not-quite-closed.json",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/videos/validaCodigo.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/videos/videos-lecciones-virtuales.html",
+		"/private/var/folders/r_/hjw9nlc10jl0ljy72hmdxrpm0000gn/T/fz3temp-1/index.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/indices/ImpuestosDiferidoGanancias/index.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/videos/generarcodigos.php",
+		"/private/var/folders/r_/hjw9nlc10jl0ljy72hmdxrpm0000gn/T/fz3temp-1/conexion.php",
+		"/private/var/folders/r_/hjw9nlc10jl0ljy72hmdxrpm0000gn/T/fz3temp-1/conexion_hache.php",
+		"/private/var/folders/r_/hjw9nlc10jl0ljy72hmdxrpm0000gn/T/fz3temp-1/db.php",
+		"/private/var/folders/r_/hjw9nlc10jl0ljy72hmdxrpm0000gn/T/fz3temp-1/config.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache-hostgator/libros/index.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/adminh/tabs/AdminCustomers.php",
+		"/private/var/folders/r_/hjw9nlc10jl0ljy72hmdxrpm0000gn/T/fz3temp-2/AdminCustomers.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/classes/Customer.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/classes/Category.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/mails/es/account.html",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/mails/es/ent_lib.html",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/mails/es/ent_tri.html",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/themes/theme323/product1.tpl",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/adminh/tabs/AdminGroups.php",
+		"/private/var/folders/r_/hjw9nlc10jl0ljy72hmdxrpm0000gn/T/fz3temp-2/Customer.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/classes/FrontController.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/classes/AdminTab.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/classes/MySQL.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/classes/Db.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/tools/swift/Swift/Iterator/MySQLResult.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/tools/swift/Swift/Iterator.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/modules/plblog_v1.1.8/plblog/frontent/tools/PlTools.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/modules/plblog/frontent/tools/PlTools.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/adminh/tabs/AdminTabs.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/adminh/functions.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/libros/conexion/buscar_gen2.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/libros/conexion/buscar_gen.php",
+		"/private/var/folders/r_/hjw9nlc10jl0ljy72hmdxrpm0000gn/T/fz3temp-2/settings.inc.php",
+		"/private/var/folders/r_/hjw9nlc10jl0ljy72hmdxrpm0000gn/T/fz3temp-2/defines.inc.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/libros/ImpuestosEnConstrucion/index.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/libros/conexion/index.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/controllers/AddressController.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/classes/Cart.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/controllers/OrderController.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/themes/theme323/shopping-cart.tpl",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/classes/Order.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/mails/es/order_conf.html",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/libros/ImpuestosEnConstrucion/javascript/main.js",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/libros/conexion/buscar_marcar.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/libros/conexion/buscar_marcar2.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/libros/conexion/buscar_notas.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/libros/conexion/buscar_notas2.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/libros/conexion/buscar_resalt.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/libros/conexion/buscar_resalt2.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/libros/conexion/delete_marcar.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/libros/conexion/delete_notas.php"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache",
+			"/Applications/mampstack-5.4.33-0/apache2/htdocs/ph"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"form_libros",
+			"form_libro",
+			"form_libro.submit",
+			"441",
+			"alert",
+			"getPageDir",
+			"Análisis desde la perspectiva de la ley 1607 y sus reglamentos",
+			"Apuntes de Derecho Tributario Colombiano",
+			"Pagos Online",
+			"nextPageFun",
+			"Primera Página",
+			"pageX",
+			"editores",
+			"phone",
+			"l('",
+			"id_order",
+			"fileUpload",
+			"cargaLogin",
+			"Para acceder a este producto",
+			"cerrer sesión",
+			"<ul style=\"list-style-type: disc; -webkit-margin-before: 1em; -webkit-margin-after: 1em; -webkit-margin-start: 0px; -webkit-margin-end: 0px; -webkit-padding-start: 40px;\">",
+			"<ul style=\"padding: 40px; list-style-type: disc; margin-before: 1em; margin-after: 1em; margin-start: 0px; margin-end: 0px; -webkit-margin-before: 1em; -webkit-margin-after: 1em; -webkit-margin-start: 0px; -webkit-margin-end: 0px; -webkit-padding-start: 40px;\">",
+			"<ul style=\"padding: 40px; list-style-type: disc; margin-before: 1em; margin-after: 1em; margin-start: 0px; margin-end: 0px;\"",
+			"<ul>",
+			"resulta",
+			"<td style=\"border: 1px solid #000000;\"",
+			"224",
+			"449",
+			"html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, input, textarea",
+			" style=\"font-size: 10pt; color: #000000;\"",
+			"<strong>",
+			"449",
+			"<table ",
+			"0% { -webkit-transform: rotate(0deg); }\n    100% { -webkit-transform: rotate(360deg); }",
+			"rays",
+			"5",
+			"0px",
+			"box",
+			"canonicalURL",
+			"customerIdSession",
+			"branche_tpl_path",
+			"Block categories module",
+			"Categorías",
+			"Block",
+			"left_column",
+			"category",
+			"div",
+			"h4",
+			"column",
+			".block",
+			"h4",
+			" form-control",
+			"0",
+			"content-wrapper",
+			"path",
+			"));",
+			"encodeURIComponent(",
+			"cap",
+			"Autocomplete-jQuery plugin",
+			"Autocomplete",
+			"ol, ul",
+			"passwd",
+			", GetMyConnection()",
+			"cookie",
+			"customers",
+			"email",
+			"Email",
+			"email",
+			"codigo",
+			"3",
+			"cargaIndice",
+			"row_sql",
+			"dirname(__FILE__).",
+			"addstuff_code",
+			"'path_to_prestashop/",
+			"data-title",
+			"id_session",
+			"y/o dispositivo",
+			"Video1",
+			"<td",
+			".",
+			"2",
+			"hover",
+			"encodeURIComponent(",
+			" data-name=\"",
+			"glyphicon glyphicon-play\"",
+			"<td class=\"hidden-xs text-center\">",
+			"m</td>",
+			"1",
+			"10",
+			"4",
+			"8",
+			"6",
+			" style=\"float:none;\"",
+			"12",
+			"span",
+			"<td></td>\n            </tr>",
+			"Relacionados",
+			"Última Página",
+			"Primera Página",
+			"totalPageCount",
+			"IMPUESTOS EN CONSTRUCCIÓN",
+			"c.",
+			"//",
+			"col-xs-6",
+			" col-lg-4\"",
+			"\">Video",
+			", conexion()",
+			"$con",
+			", $con",
+			", conexion()",
+			"$conect",
+			"$session_id",
+			"UsuId",
+			"UsuID",
+			"codigo",
+			"UsuId",
+			", $con",
+			"$con",
+			"$res_cod",
+			"$sql_cod",
+			"12",
+			"#titulo",
+			".titulo",
+			"font-size:",
+			"\n\t\t\t<script type=\"text/javascript\" src=\"../desktop/videos.js\"></script>",
+			"\"desktop/inicio.",
+			"\"images/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"else if($LibID=='441'){$pagdir=\"ImpuestosEnConstrucion/\";}"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 148.0
+	},
+	"output.sftp":
+	{
+		"height": 148.0
+	},
+	"pinned_build_system": "",
+	"project": "jilm.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/mampstack-5.4.33-0/apache2/htdocs/web_quimbaya/quimbaya.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
