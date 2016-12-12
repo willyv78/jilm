@@ -1,23 +1,28 @@
 .starter-template{
-    margin: 85px 0 0 0;
+  /*height: 93vh;*/
+  margin: 70px 0 0 0;
 }
 .lema-titulo{
-    font-size: 1.6rem;
+  font-size: 1.6rem;
 }
 .antes-vistas{
-    height: 85px;
-    width: 100%;
-    float: left;
+  height: 85px;
+  width: 100%;
+  float: left;
 }
 .vistas{
-    min-height: 86vh;
-    background: rgba(255, 255, 255, .9);
-    border-radius: 10px;
-    border: 8px solid #FF7F00;
-    font-family: Kindergarten;
+  min-height: 86vh;
+  background: rgba(255, 255, 255, .6);
+  border-radius: 10px;
+  border: 8px solid #FF7F00;
+  font-family: Kindergarten;
 }
 .vistas:last-child{
     margin-bottom: 15px;
+}
+.carousel-caption {
+  background: rgba(0, 0, 0, .4);
+  border-radius: 10px;
 }
 
 @media (max-width: 360px) {

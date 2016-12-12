@@ -1099,7 +1099,7 @@ body {
   line-height: 1.42857143;
   color: #003867;
   background-color: #ffffff;
-  background: url(../img/FondoBlancoWEB.png);
+  background: url(../img/FondoBlancoWEB.jpg);
   background-size: 100%;
 }
 
@@ -1602,8 +1602,8 @@ pre code {
 .container {
   margin-right: auto;
   margin-left: auto;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding-left: 0;
+  padding-right: 0;
 }
 @media (min-width: 768px) {
   .container {
@@ -1617,7 +1617,7 @@ pre code {
 }
 @media (min-width: 1200px) {
   .container {
-    width: 1170px;
+    width: 100%;
   }
 }
 .container-fluid {
@@ -4185,6 +4185,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   position: relative;
   min-height: 50px;
   margin-bottom: 22px;
+  padding-left: 15px;
+  padding-right: 15px;
   border: 1px solid transparent;
 }
 @media (min-width: 768px) {
@@ -6270,8 +6272,12 @@ button.close {
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
   line-height: 1;
-  height: 85vh;
+  height: 93vh;
   width: 100%;
+  display: inline;
+  vertical-align: top;
+  float: none;
+  clear: both;
 }
 @media all and (transform-3d), (-webkit-transform-3d) {
   .carousel-inner > .item {
