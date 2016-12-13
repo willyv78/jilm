@@ -20,11 +20,11 @@
 .vistas:last-child{
     margin-bottom: 15px;
 }
-.carousel-caption {
-  background: rgba(0, 0, 0, .4);
-  border-radius: 10px;
+.logo-pag {
+  float: left;
+  width: 67px;
+  margin: 0 8px;
 }
-
 @media (max-width: 360px) {
   .navbar-inverse .navbar-brand {
     width: 80%;

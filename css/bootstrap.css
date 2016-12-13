@@ -6445,16 +6445,61 @@ button.close {
   position: absolute;
   left: 15%;
   right: 15%;
-  bottom: 20px;
+  bottom: 0;
+  z-index: 10;
+  padding-top: 20px;
+  padding-bottom: 60px;
+  color: #ffffff;
+  text-align: center;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+  background: rgba(94, 94, 94, 0.6);
+  border-radius: 10px;
+}
+.carousel-caption .btn, .caption-left .btn, .caption-top .btn {
+  text-shadow: none;
+}
+.caption-top {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
   z-index: 10;
   padding-top: 20px;
   padding-bottom: 20px;
   color: #ffffff;
   text-align: center;
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+  background: rgba(94, 94, 94, 0.6);
+  border-radius: 10px;
 }
-.carousel-caption .btn {
-  text-shadow: none;
+.caption-left {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: 10;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #ffffff;
+  text-align: center;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+  background: rgba(94, 94, 94, 0.6);
+  border-radius: 10px;
+}
+.caption-right {
+  position: absolute;
+  left: 55%;
+  right: 15%;
+  top: 5%;
+  z-index: 10;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #ffffff;
+  text-align: center;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+  background: rgba(94, 94, 94, 0.6);
+  border-radius: 10px;
 }
 @media screen and (min-width: 768px) {
   .carousel-control .glyphicon-chevron-left,
@@ -6475,8 +6520,23 @@ button.close {
     margin-right: -10px;
   }
   .carousel-caption {
-    left: 20%;
-    right: 20%;
+    left: 0;
+    right: 0;
+    padding-bottom: 60px;
+  }
+  .caption-top {
+    left: 0;
+    right: 0;
+    padding-bottom: 30px;
+  }
+  .caption-left {
+    left: 0;
+    right: 65%;
+    padding-bottom: 30px;
+  }
+  .caption-right {
+    left: 40%;
+    right: 10%;
     padding-bottom: 30px;
   }
   .carousel-indicators {
