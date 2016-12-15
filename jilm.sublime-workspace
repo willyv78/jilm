@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"bo",
+				"bottom"
+			],
+			[
 				"border",
 				"border-radius"
 			],
@@ -299,7 +303,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 21376,
+				"buffer_size": 20726,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -308,7 +312,7 @@
 			"file": "css/loris-style.css",
 			"settings":
 			{
-				"buffer_size": 721,
+				"buffer_size": 703,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -317,7 +321,7 @@
 			"file": "css/bootstrap.css",
 			"settings":
 			{
-				"buffer_size": 146977,
+				"buffer_size": 148152,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -524,6 +528,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"top",
+			".carousel-caption",
 			"0",
 			"media",
 			"font-family",
@@ -649,9 +655,7 @@
 			"$res_cod",
 			"$sql_cod",
 			"12",
-			"#titulo",
-			".titulo",
-			"font-size:"
+			"#titulo"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -670,7 +674,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -679,15 +683,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 21376,
+						"buffer_size": 20726,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7424,
-								7424
+								3801,
+								3801
 							]
 						],
 						"settings":
@@ -699,15 +703,15 @@
 								{
 									"1":
 									[
-										7568,
-										7569
+										3801,
+										3802
 									]
 								},
 								"icon":
 								{
 									"1":
 									[
-										"Packages/BracketHighlighter/icons/angle_bracket.png",
+										"Packages/BracketHighlighter/icons/double_quote.png",
 										"brackethighlighter.default"
 									]
 								},
@@ -715,8 +719,8 @@
 								{
 									"1":
 									[
-										7406,
-										7407
+										3771,
+										3772
 									]
 								},
 								"unmatched":
@@ -790,10 +794,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2627.0,
+						"translation.y": 1367.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -802,15 +806,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 721,
+						"buffer_size": 703,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								436,
-								436
+								402,
+								402
 							]
 						],
 						"settings":
@@ -822,8 +826,8 @@
 								{
 									"1":
 									[
-										437,
-										438
+										420,
+										421
 									]
 								},
 								"icon":
@@ -838,8 +842,8 @@
 								{
 									"1":
 									[
-										379,
-										380
+										371,
+										372
 									]
 								},
 								"unmatched":
@@ -913,10 +917,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 88.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -925,19 +929,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 146977,
+						"buffer_size": 148152,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								82930,
-								82930
-							],
-							[
-								82953,
-								82953
+								141004,
+								141004
 							]
 						],
 						"settings":
@@ -949,23 +949,13 @@
 								{
 									"1":
 									[
-										82990,
-										82991
-									],
-									"2":
-									[
-										82990,
-										82991
+										141211,
+										141212
 									]
 								},
 								"icon":
 								{
 									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"brackethighlighter.default"
-									],
-									"2":
 									[
 										"Packages/BracketHighlighter/icons/curly_bracket.png",
 										"brackethighlighter.default"
@@ -975,13 +965,8 @@
 								{
 									"1":
 									[
-										82845,
-										82846
-									],
-									"2":
-									[
-										82845,
-										82846
+										140949,
+										140950
 									]
 								},
 								"unmatched":
@@ -1055,10 +1040,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 76093.0,
+						"translation.y": 143586.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
